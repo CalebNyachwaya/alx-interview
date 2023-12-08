@@ -1,8 +1,4 @@
 ## 0x01. Lockboxes
-
-
-### Overview
-
 This project aims to solve the Lockboxes problem using Python. The problem involves determining if all boxes can be opened when provided with a set of locked boxes and keys.
 
 
